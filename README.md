@@ -81,6 +81,6 @@ python -c "import cv2, shutil; src = cv2.__file__.replace('__init__.py','data/ha
 ```
 
 ### Step 5 — Run Real-Time Emotion Detector
-Run: python realtime.py
+Run: python real_time.py
 
 Press Q to quit
